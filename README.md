@@ -2,7 +2,7 @@
 This is Go implementation of EJBCA REST API client. The library is developed and tested using latest EJBCA version 7.4.3.3.
 
 ## Note
-REST API is available only on Enterprise edition of EJBCA. Hence, this library will not work if you are using EJBCA community edition. If you want to learn more about EJBCA Enterprise edition and PKI solutions in general, you may visit [Securemetric](https://www.securemetric.com/pki-solution/).
+REST API is available only on Enterprise edition of EJBCA. Hence, this library will not work if you are using EJBCA community edition. If you want to learn more about EJBCA Enterprise edition and PKI solutions in general, you may visit [Securemetric](https://www.securemetric.com/pki-solution/) if you are in Asia region.
 
 ## Client Authentication
 EJBCA requires client to provide client certificate for authentication and authorisation. You need to get your client certificate first prior to establishing connection to EJBCA. If you do not have administrator access or privilege to EJBCA to enrol a new client certificate, you are advised to contact your CA administrator.
