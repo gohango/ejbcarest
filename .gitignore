@@ -13,3 +13,17 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# Certificates
+*.pem
+*.cer
+*.crt
+*.p12
+*.jks
+*.key
+
+# Goland
+.idea
+
+# Main go file
+main.go
